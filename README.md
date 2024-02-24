@@ -1,5 +1,4 @@
 ### DSA Sheet 
 
 ## Arrays
--[Two sum] 
-    (https://leetcode.com/problems/two-sum/description/)
+- [Two sum](https://leetcode.com/problems/two-sum/description/)
